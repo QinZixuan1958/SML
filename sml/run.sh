@@ -1,0 +1,1 @@
+python /root/sml/sl_main.py --iid 0 --local_ep 2  --epochs 500 --num_users 30 --gpu 1
